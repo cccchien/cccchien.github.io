@@ -29,8 +29,8 @@ I'm a student at NYCU. Now studying in Department of Information Management and 
 
 ## Contact Me Here
 
-Email: [chien.mg12@nycu.edu.tw](mailto:venteng@example.com)
+-**Email**: [chien.mg12@nycu.edu.tw](mailto:venteng@example.com)
 
-GitHub: [@cccchien](https://github.com/cccchien)
+-**GitHub**: [@cccchien](https://github.com/cccchien)
 
-Phone : 0966626269
+-**Phone** : 0966626269
