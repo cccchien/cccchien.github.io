@@ -1,4 +1,7 @@
-
+---
+layout: home
+title: Welcome to My Site
+---
 
 # Hello, I'm Chia-Chien!
 
