@@ -29,7 +29,7 @@ I'm a student at NYCU. Now studying in Department of Information Management and 
 
 ## Contact Me Here
 
--**Email**: [chien.mg12@nycu.edu.tw](mailto:venteng@example.com)
+-**Email**: [chien.mg12@nycu.edu.tw](mailto:chien.mg12@nycu.edu.tw)
 
 -**GitHub**: [@cccchien](https://github.com/cccchien)
 
