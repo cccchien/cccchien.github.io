@@ -73,11 +73,11 @@ Straddle
 
 - Long Position: call option with strike price K1, put option with strike price K2
 - Short Position:  call option with strike price K2, put option with strike price K1
-- Limitation: $K1\neqK2$
+- Limitation: $K1 \neq K2$
 
 ### Profit
 
-Green line is the profit of combined 4 option contracts, which make a profit no matter what future index is.
+Green line is the profit of combined 4 option contracts, which make a profit no matter what future index will be.
 
 <img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/cdee101d-3918-4f62-81cd-cdc3e3bb1e23" />
 
