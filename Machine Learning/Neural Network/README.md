@@ -13,7 +13,7 @@ Design a CNN model, two fully-connected models with one shallow-designed and the
 ## (1)
 
 To overfit means that the model learned too well that it even remember the noises.
-So, I designed a 7-layered deep networks with 512 neurons in each layer, which have approximately 2 million parameters to be trained. I as well increased the epochs to make the model more likely to remember the noises.
+So, I designed a 7-layered deep network with 512 neurons in each layer, which has approximately 2 million parameters to be trained. I as well increased the epochs to make the model more likely to remember the noises.
 
 ## (2)
 
