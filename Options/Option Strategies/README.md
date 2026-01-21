@@ -13,7 +13,7 @@ If we are sure that when options expire, Taiwan Index will be around 25,500.
 
 ## Scenario 3
 
-If we are sure that when options expire, Taiwan Index will be away from 25,500 but isn't sure which direction it is. 
+If we are sure that when options expire, Taiwan Index will be away from 25,500 but isn't sure which direction it will be. 
 
 ## Scenario 4
 
