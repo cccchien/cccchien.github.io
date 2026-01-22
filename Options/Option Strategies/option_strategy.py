@@ -89,7 +89,7 @@ plt.scatter(x_mark, y3_mark, color='red', zorder = 5)
 plt.axvline(x=25500, color='black', linestyle='--')
 plt.title('Profit')
 
-# 放大25500附近
+# Closer look around 25500
 ST = np.arange(25100,25900)
 pos3_1 = [[[25800,1]],[[25200,1]]]
 pos3_2 = [[[25700,1]],[[25300,1]]]
